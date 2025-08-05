@@ -53,12 +53,5 @@ public class LinkedListEg{
 		
 		System.out.println("After clearing LinkedList llist3 : "+llist3);
 		
-	
-		
-
-
-
-
-
 	}
 }
